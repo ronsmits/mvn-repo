@@ -3,9 +3,12 @@
   <groupId>org.ronsmits</groupId>
   <artifactId>wicket-bootstrap-sidenavigation</artifactId>
   <versioning>
+    <release>3.0.0</release>
     <versions>
       <version>0.1.0-SNAPSHOT</version>
+      <version>3.0.0</version>
+      <version>3.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130109053736</lastUpdated>
+    <lastUpdated>20150603214223</lastUpdated>
   </versioning>
 </metadata>
